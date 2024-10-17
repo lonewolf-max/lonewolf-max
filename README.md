@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @lonewolf-max
-- 👀 I’m interested in ...girls
+- 👋 Hi, I’m Shubham Tripathi
+- 👀 I’m interested in ...Making connections and developing apps
 - 🌱 I’m currently learning ...Kotlin
 - 💞️ I’m looking to collaborate on ...android dev projects
 - 📫 How to reach me ...stri20033@gmail.com
